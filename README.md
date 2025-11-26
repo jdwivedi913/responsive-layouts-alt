@@ -1,4 +1,4 @@
-# Responsive Layout - In-class Practice
+# Responsive Layout
 
 ## Objectives
 
