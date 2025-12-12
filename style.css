@@ -153,3 +153,19 @@ footer .disclaimer {
 footer .disclaimer img {
   width: 40%;
 }
+
+/* WRAPPER DEFAULTS (MOBILE) */
+
+/* kitten wrapper added */
+.kitten-grid {
+  /* mobile stays stacked */
+}
+
+/* footer wrapper */
+.footer-columns {
+  /* mobile stays stacked */
+}
+
+.footer-col {
+  margin-bottom: 24px; /* spacing for mobile */
+}
