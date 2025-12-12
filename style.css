@@ -233,3 +233,41 @@ footer .disclaimer img {
     width: 120px;
   }
 }
+
+@media only screen and (min-width: 1200px) {
+
+  main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 48px;
+  }
+
+  .about img {
+    width: 30%;
+    max-width: 400px;
+    margin-left: 48px;
+  }
+
+  .kitten-grid article {
+    flex: 0 0 calc(25% - 32px);
+  }
+
+  .footer-columns {
+    display: flex;
+    justify-content: space-between;
+    gap: 48px;
+  }
+
+  .footer-col,
+  .disclaimer {
+    flex: 1;
+  }
+
+  .disclaimer {
+    text-align: left;
+  }
+
+  footer .disclaimer img {
+    width: 120px;
+  }
+}
